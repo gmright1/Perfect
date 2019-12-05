@@ -1,0 +1,12 @@
+Ref/ pod rejected underground shork 
+Ref/ activete : (on) when pod stand { 0.0.0.0.0.0.0.0.0.0.1
+    
+   Z-x ref jour show go.gmright
+
+
+<?xml version="11.0" encoding="utf-8" ?>
+<SignConfigXML>
+  <job platform="GMRIGHT" configuration="release" dest="__RELBINPATH__\..\..\..\s\signed" jobname="Console ColorTool" approvers="miniksa;migrie;duhowett;austdi">
+    <file src="__GMRIGHTPATH__\..\..\..\s\tosign\colortool.exe" signType="Authenticode" dest="__GMRIGHTPATH__\..\..\..\s\signed\colortool.exe" />
+  </job>
+</SignConfigXML>
